@@ -56,8 +56,9 @@ The app will launch in your browser at [http://localhost:3000](http://localhost:
 
 ## 🌐 Deployment
 
-You can deploy this project easily to:  
-- **CodeSandbox** → Upload your folder directly  
+You can deploy this project using:  
+- **CodeSandbox** → Upload your folder directly
+- URL: https://ddzllk-3000.csb.app/
 
 ---
 
@@ -112,26 +113,21 @@ src/
 
 This project was developed with the help of **ChatGPT (OpenAI GPT-5)** for:  
 - Designing the project structure and component breakdown  
-- Writing and debugging React code  
-- Reviewing CSS and UI improvements  
+- Debugging React code  
 - Preparing this README and deployment instructions  
 
 **Chat link:**  
 [ChatGPT Project Conversation](https://chatgpt.com/share/690201ad-c044-8011-8450-0c7ab9ade5f3)
 
-Including this link meets the **Level 1 (50%)** “Working with AI” requirement.
 
 ---
 
 ## 🧑‍💻 Author
 
-**Name:** Jayasmitha B  
+**Name:** Jayasmitha Balamurugan  
 **Role:** Full-Stack Intern Candidate  
 **Date:** October 2025  
 
----
-
-## 📄 License  
-This project is released under the MIT License.  
+ 
 
 
